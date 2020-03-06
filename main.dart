@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
         home: Scaffold(
           body: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
+            crossAxisAlignment: CrossAxisAlignment.center,
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: <Widget>[
               Flexible(
